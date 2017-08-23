@@ -2,6 +2,8 @@ Boids by Seth Onken
 
 *str2int function was taken from http://stackoverflow.com/questions/16388510/evaluate-a-string-with-a-switch-in-c
 
+To start, go to "Release" -> "boids"
+
 Program will open 3 windows: Boids, Interface, and the .exe window.
 
 The Boids window has a menu attached to mouse right:
